@@ -8,10 +8,9 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Cyberdeck Artisan
 #define PRODUCT         Minnow
-#define VIAL_KEYBOARD_UID {0xB6, 0x36, 0xF6, 0x04, 0xD2, 0x83, 0x2F, 0x0F}
 
 /* key matrix size */
-#define MATRIX_ROWS 3
+#define MATRIX_ROWS 4
 #define MATRIX_COLS 11
 
 #define MATRIX_ROW_PINS { GP28, GP29, GP12, GP13 }
